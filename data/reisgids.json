@@ -1,0 +1,14 @@
+[
+    {
+        "naam": "Davy",
+        "foto": "./images/davy.jpg"
+    },
+    {
+        "naam": "Amir",
+        "foto": "./images/amir.jpg"
+    },
+    {
+        "naam": "Michiel",
+        "foto": "./images/michiel.jpg"
+    }
+]

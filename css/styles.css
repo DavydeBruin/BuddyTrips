@@ -1,0 +1,32 @@
+@import url("./desktop.css");
+@import url("./mobile.css");
+
+@font-face {
+    font-family: Roboto;
+    src: url("../font/roboto-regular.ttf");
+}
+
+:root {
+    --primary: #df2929;
+    --light: #ffffff;
+    --dark: #000000;
+    --error: #ff0000;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 100%;
+    background: var(--primary);
+}
+
+h1, p {
+    font-family: "Roboto";
+}
+
+p {
+    font-weight: 600;
+}
